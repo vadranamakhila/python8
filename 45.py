@@ -1,6 +1,6 @@
-num=int(raw_input())
-c=0
-while num>0:
-    c=c+1
-    num=num//10
-print c   
+num1=int(raw_input())
+k=0
+while num1>0:
+    k=k+1
+    num1=num1//10
+print k   
